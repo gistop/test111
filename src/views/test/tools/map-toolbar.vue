@@ -22,7 +22,7 @@ const activeTool = ref<string | null>(null);
 const tools = [
   {
     id: 'measure',
-    name: '测量距离',
+    name: '测量距离1',
     component: MeasureDistance
   },
   {
