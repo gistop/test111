@@ -6,3 +6,6 @@ export const AMAP_SDK_URL = 'https://webapi.amap.com/maps?v=2.0&key=e7bd02bd5040
 
 /** tencent sdk url */
 export const TENCENT_MAP_SDK_URL = 'https://map.qq.com/api/gljs?v=1.exp&key=A6DBZ-KXPLW-JKSRY-ONZF4-CPHY3-K6BL7';
+
+/** Tianditu (天地图) sdk url - 需要替换为你的key */
+export const TIANDITU_MAP_SDK_URL = 'https://api.tianditu.gov.cn/api?v=4.0&tk=d042a6421f43987b40bb0ab8822f5495';

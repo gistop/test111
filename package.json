@@ -76,6 +76,7 @@
     "jsbarcode": "3.12.1",
     "json5": "2.2.3",
     "nprogress": "0.2.0",
+    "ol": "^10.7.0",
     "pinia": "3.0.3",
     "pinyin-pro": "3.27.0",
     "print-js": "1.6.0",
